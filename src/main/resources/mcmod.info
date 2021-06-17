@@ -1,0 +1,16 @@
+[
+{
+  "modid": "recruiter",
+  "name": "Recruiter",
+  "description": "A mod that checks who meets OUT's requirements in your lobby.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["StarbuckBarista"],
+  "credits": "OUT - StarbuckBarista",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
